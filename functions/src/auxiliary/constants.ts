@@ -1,0 +1,101 @@
+export const FN = " (Factory New)"
+export const MW = " (Minimal Wear)"
+export const FT = " (Field-Tested)"
+export const WW = " (Well-Worn)"
+export const BS = " (Battle-Scarred)"
+export const ALL = [FN, MW, FT, WW, BS]
+
+//knives
+
+export const URSUS_KNIFE = "★ Ursus Knife | "
+export const CLASSIC_KNIFE = "★ Classic Knife | "
+export const BUTTERFLY_KNIFE = "★ Butterfly Knife | "
+export const TALON_KNIFE = "★ Talon Knife | "
+export const M9_BAYONET = "★ M9 Bayonet | "
+export const BAYONET = "★ Bayonet | "
+export const KARAMBIT = "★ Karambit | "
+export const SKELETOK_KNIFE = "★ Skeleton Knife | "
+export const BOWIE_KNIFE = "★ Bowie Knife | "
+export const SURVIVAL_KNIFE = "★ Survival Knife | "
+export const NOMAD_KNIFE = "★ Nomad Knife | "
+export const STILETTO_KNIFE = "★ Stiletto Knife | "
+export const HUNTSMAN_KNIFE = "★ Huntsman Knife | "
+export const FLIP_KNIFE = "★ Flip Knife | "
+export const FALCHION_KNIFE = "★ Falchion Knife | "
+export const PARACORD_KNIFE = "★ Paracord Knife | "
+export const NAVAJA_KNIFE = "★ Navaja Knife | "
+export const SHADOW_DAGGERS = "★ Shadow Daggers | "
+
+//knives StatTrak
+
+export const URSUS_KNIFE_ST = "★ StatTrak™ Ursus Knife | "
+export const CLASSIC_KNIFE_ST = "★ StatTrak™ Classic Knife | "
+export const BUTTERFLY_KNIFE_ST = "★ StatTrak™ Butterfly Knife | "
+export const TALON_KNIFE_ST = "★ StatTrak™ Talon Knife | "
+export const M9_BAYONET_ST = "★ StatTrak™ M9 Bayonet | "
+export const BAYONET_ST = "★ StatTrak™ Bayonet | "
+export const KARAMBIT_ST = "★ StatTrak™ Karambit | "
+export const SKELETOK_KNIFE_ST = "★ StatTrak™ Skeleton Knife | "
+export const STILETTO_KNIFE_ST = "★ StatTrak™ Stiletto Knife | "
+export const BOWIE_KNIFE_ST = "★ StatTrak™ Bowie Knife | "
+export const SURVIVAL_KNIFE_ST = "★ StatTrak™ Survival Knife | "
+export const NOMAD_KNIFE_ST = "★ StatTrak™ Nomad Knife | "
+export const HUNTSMAN_KNIFE_ST = "★ StatTrak™ Huntsman Knife | "
+export const FLIP_KNIFE_ST = "★ StatTrak™ Flip Knife | "
+export const FALCHION_KNIFE_ST = "★ StatTrak™ Falchion Knife | "
+export const PARACORD_KNIFE_ST = "★ StatTrak™ Paracord Knife | "
+export const NAVAJA_KNIFE_ST = "★ StatTrak™ Navaja Knife | "
+export const SHADOW_DAGGERS_ST = "★ StatTrak™ Shadow Daggers | "
+
+//gloves
+
+export const BROKEN_FANG_GLOVES = "★ Broken Fang Gloves | "
+export const DRIVER_GLOVES = "★ Driver Gloves | "
+export const HAND_WRAPS = "★ Hand Wraps | "
+export const MOTO_GLOVES = "★ Moto Gloves | "
+export const SPECIALIST_GLOVES = "★ Specialist Gloves | "
+export const SPORT_GLOVES = "★ Sport Gloves | "
+export const BLOODHOUND_GLOVES = "★ Bloodhound Gloves | "
+export const HYDRA_GLOVES = "★ Hydra Gloves | "
+
+//Styles
+
+export const CASE_HARDENED = "Case Hardened"
+export const FADE = "Fade"
+export const CRIMSON_WEB = "Crimson Web"
+export const ULTRAVIOLET = "Ultraviolet"
+export const DOPPLER = "Doppler"
+export const MARBLE_FADE = "Marble Fade"
+export const GAMMA_DOPPLER = "Gamma Doppler"
+
+//Weapons
+
+export const AK_47 = "AK-47 | "
+export const DESERT_EAGLE = "Desert Eagle | "
+export const GLOCK_18 = "Glock-18 | "
+export const M4A1_S = "M4A1-S | "
+export const M4A4 = "M4A4 | "
+export const USP_S = "USP-S | "
+export const AWP = "AWP | "
+export const MAC_10 = "MAC-10 | "
+export const P90 = "P90 | "
+export const P2000 = "P2000 | "
+export const MP5_SD = "MP5-SD | "
+export const UMP_45 = "UMP-45 | "
+export const SSG_08 = "SSG 08 | "
+export const FIVE_SEVEN = "Five-SeveN | "
+export const SG_553 = "SG 553 | "
+
+//Weapons StatTrak
+
+export const AK_47_ST = "StatTrak™ AK-47 | "
+export const DESERT_EAGLE_ST = "StatTrak™ Desert Eagle | "
+export const GLOCK_18_ST = "StatTrak™ Glock-18 | "
+export const M4A1_S_ST = "StatTrak™ M4A1-S | "
+export const M4A4_ST = "StatTrak™ M4A4 | "
+export const USP_S_ST = "StatTrak™ USP-S | "
+export const AWP_ST = "StatTrak™ AWP | "
+export const MAC_10_ST = "StatTrak™ MAC-10 | "
+export const P90_ST = "StatTrak™ P90 | "
+export const P2000_ST = "StatTrak™ P2000 | "
+export const GALIL_ST = "StatTrak™ Galil AR | "
